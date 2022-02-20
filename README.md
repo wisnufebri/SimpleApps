@@ -1,0 +1,13 @@
+- What kind of architecture did you use? -> MVVM
+- What libraries did you add to the app? What are they used for? if you not rely the other library tell us why?
+  - Retrofit2 & Gson - for constructing the REST API 
+  - dagger-hilt - dapendency injection
+  - OkHttp3 - Implement interceptor
+  - Glide -  loading images
+  - RecycleView - adapter viewHolder
+- How long did you spend on the test? -> 2 Day
+- If you had more time, what further improvements or new features would you add? -> Home
+- Which parts of your submission are you most proud of? And why? little advice, dont answer whole project, use one what you think it special. -> BSI Mobile Apps
+- Which parts did you spend the most time with? What did you find most difficult? -> I spend my time for data integration
+- How did you find the test overall? If you have any suggestions on how we can improve the test or our API, we'd love to hear them, please elaborate more about this. -> mode debugging
+- The last question, quality or quantity? -> Quality
